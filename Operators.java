@@ -6,6 +6,7 @@ public class Operators {
 	    int num1 = 50;
 		int num2 = 10;
 		int a =  10;
+
 		int b = 20;
 		boolean x = true;
 		boolean y = false;
