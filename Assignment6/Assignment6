@@ -1,0 +1,18 @@
+class Hemant_Dahal_Assignment6_Q1 {
+public static void main(String[] args) {
+int Delta = 15;
+int Delta1 = 45;
+char Name = Hemant;
+long Serial_no = 153838978239883089749;
+double Amount = 1234.64;
+float amount = 1234.64f;
+boolean x = true;
+System.out.println(Delta);
+System.out.println(Delta1);
+System.out.println("Name");
+System.out.println(Serial_no);
+System.out.println(Amount);
+System.out.println(amount);
+System.out.println(x);
+}
+} 
