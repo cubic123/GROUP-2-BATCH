@@ -1,0 +1,39 @@
+variables: 
+
+defining/initialize a variables
+
+   
+     char   a = 'a' ;
+
+char c = 'a';  literal
+
+
+
+
+Primitive Data type: int
+char
+long
+double
+boolean
+int
+short
+long
+float
+
+
+Special characters: 
+
+System.out.println
+
+Operators: 
+
+7 kinds of operators:
+1: Basic operators:  +, -, *, / , % (modulo-mod) : like a remainder 10 % 5 = 0     		    (2 = 2) true, false
+2: Assignment operators: = , +=, -+, *=, /+ , %=
+3: Auto increament and auto decreament operators:  num++, ++num , num--, --num
+4: Logical operator: && (ture && true == true; true && false = false), || (false || false = false, else true), ! (opposite)
+5: comparision operator: == (if both values are euqal return true else false ), != ,> , < , >=, <= 
+6: bitwise 
+7: ternary
+
+
