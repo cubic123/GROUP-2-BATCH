@@ -3,17 +3,15 @@ import java.util.Scanner;
 public class Rana_assignment6 {
 
 	private static Scanner x;
-	private static Scanner y;
 
 	public static void main(String[] args) {
 		int a,b,sum,rem;
 		x = new Scanner (System.in);
-		y = new Scanner (System.in);
 		
 		System.out.print("Enter The value of a:");
 		a=x.nextInt();
 		System.out.print("Enter The value of b:");
-		b=y.nextInt();
+		b=x.nextInt();
 		
 		
 		sum=a+b;

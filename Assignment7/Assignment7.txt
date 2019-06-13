@@ -1,0 +1,5 @@
+Q1: Java Program to check if number is positive or negative
+q2: Java Program to check if number is even or odd
+q3: program to find if a number is prime or not:
+Q4:Java Program to check whether a char is vowel or Consonant using Switch Case
+q5: Java Program to make a Simple Calculator using Switch Case
