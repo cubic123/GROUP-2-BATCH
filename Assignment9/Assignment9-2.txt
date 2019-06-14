@@ -1,0 +1,26 @@
+Q1:Write a method to print to sum of two numbers?
+Q2: write a mthod to print your name 5 times?
+q3: write a program to draw pattern: use methods
+
+
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+
+
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+
