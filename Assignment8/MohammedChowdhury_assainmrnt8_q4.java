@@ -1,4 +1,3 @@
-package assainment8;
 
 public class MohammedChowdhury_assainmrnt8_q4 {
 
