@@ -1,11 +1,10 @@
-package assainment9;
 
 public class MohammedChowdhury_assainmrnt9_q3 {
 	public static void main(String[]args) {
-		System.out.println(part1());
+		part1();
 		
 	}
-	public static int part1() {
+	public static void part1() {
 		   for(int i=0;i<15;i++) {
 		         for(int j=0;j<15-i;j++) {
 		        	 System.out.print(" ");
@@ -17,7 +16,6 @@ public class MohammedChowdhury_assainmrnt9_q3 {
 		    }
 
 		
-		return 0;
 		
 	}
 

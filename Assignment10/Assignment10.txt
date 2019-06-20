@@ -1,0 +1,9 @@
+Create class School;
+   call student whose ID number is 2;
+Create a class Department;
+	Variables: DeptName= science, Commerce, engineering
+Create a class student;
+	Make variables: ID, FirstName, LastName, Address,
+
+Create a class Professor:
+	Make VariableS: ID, FirstName, LastName , Department: call department name from dept class.
