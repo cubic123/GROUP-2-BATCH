@@ -1,0 +1,44 @@
+package assignment10;
+
+public class Student {
+
+	 private String firstNam;
+	 private String lastName;
+	 
+	public Student(String firstNam, String lastName) {
+		super();
+		this.firstNam = firstNam;
+		this.lastName = lastName;
+	}
+
+	public Student() {
+		
+	}
+
+	public String getFirstNam() {
+		return firstNam;
+	}
+
+	public void setFirstNam(String firstNam) {
+		this.firstNam = firstNam;
+	}
+
+	public String getLastName() {
+		return lastName;
+	}
+
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+
+	@Override
+	public String toString() {
+		return "Student [firstNam=" + firstNam + ", lastName=" + lastName + "]";
+	}
+	
+	public static void main(String[] args) {
+		Student s  = new Student("VIvek", "Shrestha");
+		System.out.println(s.toString());
+	}
+
+}
